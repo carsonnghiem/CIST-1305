@@ -1,0 +1,10 @@
+hello
+world
+do
+x
+x
+x
+x
+x
+x
+stop
